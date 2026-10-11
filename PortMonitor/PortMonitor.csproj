@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+   <TargetFramework>net8.0</TargetFramework>
+   <Nullable>enable</Nullable>
+   <ImplicitUsings>enable</ImplicitUsings>
+   <LangVersion>latest</LangVersion>
+   <ManagePackageVersionsCentrally>false</ManagePackageVersionsCentrally>
+  <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
+  </PropertyGroup>
+  
+
+
+  <ItemGroup>
+    <PackageReference Include="Avalonia" Version="11.2.5" />
+    <PackageReference Include="Avalonia.Themes.Fluent" Version="11.2.5" />
+    <PackageReference Include="Avalonia.Fonts.Inter" Version="11.2.5" />
+    <PackageReference Include="AvaloniaUI.DiagnosticsSupport" Version=" 2.2.3"/>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />   
+  </ItemGroup>
+</Project>

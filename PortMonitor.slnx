@@ -1,0 +1,11 @@
+﻿<Solution>
+  <Project Path="PortMonitor.Android/PortMonitor.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="PortMonitor.Browser/PortMonitor.Browser.csproj" />
+  <Project Path="PortMonitor.Desktop/PortMonitor.Desktop.csproj" />
+  <Project Path="PortMonitor.iOS/PortMonitor.iOS.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="PortMonitor/PortMonitor.csproj" />
+</Solution>

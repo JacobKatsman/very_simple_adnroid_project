@@ -1,0 +1,16 @@
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/bin/Debug/net8.0/PortMonitor.deps.json
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/bin/Debug/net8.0/PortMonitor.dll
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/bin/Debug/net8.0/PortMonitor.pdb
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/bin/Debug/net8.0/AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/obj/Debug/net8.0/PortMonitor.csproj.AssemblyReference.cache
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/obj/Debug/net8.0/Avalonia/resources
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/obj/Debug/net8.0/PortMonitor.GeneratedMSBuildEditorConfig.editorconfig
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/obj/Debug/net8.0/PortMonitor.AssemblyInfoInputs.cache
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/obj/Debug/net8.0/PortMonitor.AssemblyInfo.cs
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/obj/Debug/net8.0/PortMonitor.csproj.CoreCompileInputs.cache
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/obj/Debug/net8.0/Avalonia/PortMonitor.dll
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/obj/Debug/net8.0/Avalonia/PortMonitor.pdb
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/obj/Debug/net8.0/refint/Avalonia/PortMonitor.dll
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/obj/Debug/net8.0/PortMoni.E07967CD.Up2Date
+/home/useralex/mynewApplication123/PortMonitor/PortMonitor/obj/Debug/net8.0/ref/PortMonitor.dll
