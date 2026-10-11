@@ -1,0 +1,11 @@
+# Все C# файлы — это C#
+*.cs linguist-language=C#
+*.csproj linguist-language=C#
+*.xaml linguist-language=C#
+
+# Игнорировать служебные папки (bin, obj), чтобы они не портили статистику
+[bin] linguist-vendored
+[obj] linguist-vendored
+
+# Если есть папки с ресурсами Android, которые тоже могут мешать
+[Platforms] linguist-vendored
