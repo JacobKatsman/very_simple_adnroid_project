@@ -11,6 +11,6 @@ namespace PortMonitor.ViewModels
 {
    public partial class MainViewModel : ObservableObject
    {
-       public string Greeting { get; set; } = "Welcome to Avalonia!";
+       public string Greeting { get; set; } = "Welcome to the World!";
    }
 }
